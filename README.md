@@ -22,7 +22,7 @@ insert into libros values ( 'Guerra yPaz', default, 'Mensajero RUSO', 500.00, 5)
 ```
 
 ```sql
-select * from articulos;
+select * from libros;
 ```
  
  | titulo            | autor           |  editorial   |   precio   |    cantidad    |
